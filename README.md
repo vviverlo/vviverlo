@@ -22,51 +22,55 @@ Based in Dubai, UAE · Open to **Moscow (remote/hybrid)** and **international re
 
 Backend developer focused on **Python**, **REST APIs**, and **reliable server-side systems**.
 
-At **UmmaVPN**, I worked on a live VPN product: backend logic, APIs, Linux servers, and Docker-based deployments.
+At **UmmaVPN**, I work on a live VPN product: backend logic, APIs, Linux servers, and Docker-based deployments.
 
-Before that, I gained experience in **global corporate environments** at **Deutsche Bank** (financial services) and **Arçelik** (international manufacturing). That shaped how I think about **quality, structure, and working in large organizations** — alongside hands-on development skills from product work and the Yandex Practicum program.
+Earlier, I completed internships at **Deutsche Bank** (global financial services) and **Arçelik** (international manufacturing). That experience taught me how large organizations operate — quality standards, structure, and cross-team collaboration — before I moved into full-time backend development.
+
+I also completed the **Yandex Practicum** Python Developer program, where I built production-style web applications with Django and CI/CD.
 
 ---
 
 ## 💼 Experience
 
 ### Backend Developer · UmmaVPN · UAE
-*March 2025 – Now*
+*March 2025 – Present*
 
 Commercial backend development for a VPN product:
 
-- Developed and maintained **REST APIs** and server-side business logic
-- Worked with **Linux** servers and **Docker** in production environments
-- Participated in **deployment, monitoring, and support** of live services
-- Collaborated in a product team shipping features to real users
+- Develop and maintain **REST APIs** and server-side business logic
+- Work with **Linux** servers and **Docker** in production environments
+- Participate in **deployment, monitoring, and support** of live services
+- Collaborate in a product team shipping features to real users
 
 **Stack:** Python · Linux · Docker · REST API · Git
 
 ---
 
-### [Job Title] · Deutsche Bank · [City, Country]
-*June 2022 – November 2022*
+### Software Development Intern · Arçelik · Turkey
+*July 2023 – September 2023*
 
-Experience in a **global financial institution**:
+Internship at a large international manufacturing company:
 
-- [Your main responsibility — e.g. supported internal systems / developed scripts / worked with data pipelines]
-- [Second bullet — e.g. worked in a regulated, security-focused environment]
-- [Third bullet — e.g. collaborated with cross-functional teams across locations]
+- Worked with the software development team on **internal technical tasks**
+- Participated in team workflows within a **structured corporate engineering environment**
+- Collaborated with colleagues across departments on day-to-day project activities
+- Gained practical experience in **professional development practices** at scale
 
-**Focus:** enterprise processes · reliability · [your tech stack if applicable]
+**Focus:** corporate software · teamwork · engineering processes
 
 ---
 
-### [Job Title] · Arçelik · Turkey
-*July 2023 – September 2023*
+### Technology Intern · Deutsche Bank · Istanbul, Turkey
+*June 2022 – November 2022*
 
-Experience in a **large international manufacturing company**:
+Internship at a global financial institution:
 
-- [Your main responsibility]
-- [Second bullet — teamwork, corporate processes, technical tasks]
-- [Third bullet — tools/languages you used]
+- Supported **technology team operations** in a regulated banking environment
+- Worked within strict **security and compliance** standards typical of financial services
+- Collaborated with team members in a **process-driven, multinational organization**
+- Built understanding of how **enterprise IT** supports business operations at scale
 
-**Focus:** corporate environment · international team · [your domain]
+**Focus:** financial services · enterprise IT · security & compliance culture
 
 ---
 
@@ -84,15 +88,15 @@ Experience in a **large international manufacturing company**:
 
 ## 🛠 Tech stack
 
-**Languages:** Python  
+**Languages:** Python
 
-**Frameworks:** Django · Django REST Framework  
+**Frameworks:** Django · Django REST Framework
 
-**Databases:** PostgreSQL · SQLite  
+**Databases:** PostgreSQL · SQLite
 
-**DevOps & Infra:** Docker · Linux · Nginx · Gunicorn · GitHub Actions · CI/CD  
+**DevOps & Infra:** Docker · Linux · Nginx · Gunicorn · GitHub Actions · CI/CD
 
-**Tools:** Git · REST API  
+**Tools:** Git · REST API
 
 ---
 
