@@ -33,7 +33,7 @@ I also completed the **Yandex Practicum** Python Developer program, where I buil
 ## 💼 Experience
 
 ### Backend Developer · UmmaVPN · UAE
-*March 2025 – Present*
+*November 2024 – Present*
 
 Commercial backend development for a VPN product:
 
