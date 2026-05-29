@@ -80,7 +80,6 @@ Internship at a global financial institution:
 |---------|-------------|-------|
 | [**Foodgram**](https://github.com/vviverlo/foodgram) · [Live demo](https://foodikson.mooo.com) | Recipe platform with REST API, subscriptions, favorites, and shopping list | Django · DRF · PostgreSQL · Docker · CI/CD |
 | [**YaCut**](https://github.com/vviverlo/async-yacut) | Async URL shortener with file upload to cloud storage | Flask · asyncio · aiohttp · SQLAlchemy |
-| [**YaMDb**](https://github.com/vviverlo/api-yamdb) | REST API for reviews of titles (movies, books, music) with role-based permissions | Django · DRF · JWT · PostgreSQL |
 
 > These projects demonstrate my approach to **architecture, API design, databases, and CI/CD** — skills I apply in commercial work as well.
 
