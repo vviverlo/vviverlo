@@ -78,9 +78,9 @@ Internship at a global financial institution:
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**Kittygram**](https://github.com/vviverlo/kittygram_project_plus) | Social network for sharing cat photos. Full web app with API, auth, and containerized deployment | Django · DRF · PostgreSQL · Docker · Nginx · GitHub Actions |
-| [**YaNews**](https://github.com/vviverlo/ya-news) | News aggregator with user roles and content management | Django · Python |
-| [**YaNote**](https://github.com/vviverlo/ya-note) | Note-taking app with automatic URL preview generation | Django · Python |
+| [**Foodgram**](https://github.com/vviverlo/foodgram) · [Live demo](https://foodikson.mooo.com) | Recipe platform with REST API, subscriptions, favorites, and shopping list | Django · DRF · PostgreSQL · Docker · CI/CD |
+| [**YaCut**](https://github.com/vviverlo/async-yacut) | Async URL shortener with file upload to cloud storage | Flask · asyncio · aiohttp · SQLAlchemy |
+| [**YaMDb**](https://github.com/vviverlo/api-yamdb) | REST API for reviews of titles (movies, books, music) with role-based permissions | Django · DRF · JWT · PostgreSQL |
 
 > These projects demonstrate my approach to **architecture, API design, databases, and CI/CD** — skills I apply in commercial work as well.
 
