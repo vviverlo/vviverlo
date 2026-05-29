@@ -60,7 +60,7 @@ Internship at a large international manufacturing company:
 
 ---
 
-### Technology Intern · Deutsche Bank · Istanbul, Turkey
+### Technology Intern · Deutsche Bank ·
 *June 2022 – November 2022*
 
 Internship at a global financial institution:
