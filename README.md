@@ -31,7 +31,7 @@ Before that, I gained experience in **global corporate environments** at **Deuts
 ## 💼 Experience
 
 ### Backend Developer · UmmaVPN · UAE
-*[Month Year – Month Year]*
+*March 2025 – Now*
 
 Commercial backend development for a VPN product:
 
@@ -45,7 +45,7 @@ Commercial backend development for a VPN product:
 ---
 
 ### [Job Title] · Deutsche Bank · [City, Country]
-*[Month Year – Month Year]*
+*June 2022 – November 2022*
 
 Experience in a **global financial institution**:
 
@@ -58,7 +58,7 @@ Experience in a **global financial institution**:
 ---
 
 ### [Job Title] · Arçelik · Turkey
-*[Month Year – Month Year]*
+*July 2023 – September 2023*
 
 Experience in a **large international manufacturing company**:
 
