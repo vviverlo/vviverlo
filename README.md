@@ -2,7 +2,7 @@
 
 **Backend Developer (Python)** · Commercial product experience · Enterprise background
 
-Based in Dubai, UAE · Open to **Moscow (remote/hybrid)** and **international remote/relocation**
+Based in Moscow · Open to **Dubai (remote/hybrid)** and **international remote/relocation**
 
 ---
 
