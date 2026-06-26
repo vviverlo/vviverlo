@@ -47,7 +47,7 @@ Commercial backend development for a VPN product:
 ---
 
 ### Software Development Intern · Arçelik · Turkey
-*July 2023 – September 2023*
+*July 2023 – December 2023*
 
 Internship at a large international manufacturing company:
 
